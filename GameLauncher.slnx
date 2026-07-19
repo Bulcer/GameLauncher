@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GameLauncher.BL/GameLauncher.BL.csproj" />
+    <Project Path="src/GameLauncher.DAL/GameLauncher.DAL.csproj" />
+  </Folder>
+</Solution>
